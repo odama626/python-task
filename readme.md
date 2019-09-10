@@ -1,4 +1,4 @@
-# CORVA python-task
+# python-task
 
 a minimal imdb json parser
 
